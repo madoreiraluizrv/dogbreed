@@ -4,7 +4,8 @@
 2. [Installation](#installation)
 3. [File Descriptions](#files)
 4. [How to Run](#how)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Overview<a name="overview"></a>
 
@@ -27,6 +28,10 @@ The other files on the folder are just data: pre-loaded bottlneck features, imag
 ## How to Run<a name="how"></a>
 
 To run the project, you only need to run each cell of the dog_app.ipynb notebook sequentially.
+
+## Results<a name="results"></a>
+
+The final implementation resulted in 81% of accuracy. I also tested the model with a few images from my computer, with really satisfactory results (as told at the end of the Jupyter notebook.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
