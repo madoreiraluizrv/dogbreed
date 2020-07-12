@@ -22,6 +22,7 @@ The code should run with no issues using Python versions 3. However, if you need
 
 Every part of the algorithm is available on the dog_app.ipynb notebook.
 The only code outside of that file is on extract_bottleneck_features.py, with some functions to extract the bottleneck features of a few varied models.
+The other files on the folder are just data: pre-loaded bottlneck features, images to test, saved models.
 
 ## How to Run<a name="how"></a>
 
