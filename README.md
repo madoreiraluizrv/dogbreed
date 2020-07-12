@@ -16,7 +16,7 @@ The only data inputs I have added were the bottleneck features from Resnet50 pre
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python and the libraries imported on the Jupyter notebook. 
-The code should run with no issues using Python versions 3. However, if you need to know more about the requrements, check the requirements folder.
+The code should run with no issues using Python versions 3. However, if you need to know more about the requrements, these are the libraries used (and listed on the requirements folder): opencv-python, h5py, matplotlib, numpy, scipy, tqdm, keras, scikit-learn, pillow, ipykernel and tensorflow-gpu.
 
 ## File Descriptions <a name="files"></a>
 
